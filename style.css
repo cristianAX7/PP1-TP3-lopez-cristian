@@ -1,0 +1,20 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2, h1 {
+    color: rebeccapurple;
+}
+
+h1:hover, h2:hover
+{
+    color: palevioletred;
+}
+
+li, a
+{
+    list-style: circle;
+    text-decoration: none;
+}
